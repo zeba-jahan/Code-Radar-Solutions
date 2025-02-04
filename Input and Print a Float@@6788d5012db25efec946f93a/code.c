@@ -2,7 +2,7 @@
 int main()
 {
     float num;
-    printf("enter floting-point number: ");
+    printf("You entered: ");
     scanf("%f",&num);
     return 0;
 }
