@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main();
+int main()
 {
     printf("You entered: 3.14");
     return 0;
