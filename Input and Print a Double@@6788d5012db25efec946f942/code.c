@@ -3,7 +3,7 @@
 int main()
 {
     float num;
-    scanf("%f %f",&num);
+    scanf("%f",&num);
     printf("You entered: %f * %f",num);
     return 0;
 }
