@@ -6,6 +6,6 @@ int main(){
     if (num % 2 == 0)
         printf("Even\n");
     else 
-        printf("odd\n");
+        printf("Odd\n");
         return 0;    
 }
