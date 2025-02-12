@@ -3,6 +3,9 @@ int main(){
     int num;
     printf("Enter a number: ");
     scanf("%d",&num);
-    if (a % 5)
-    printf("Divisible")
+    if (num % 5,7)
+    printf("Divisible\n",num);
+    else
+    printf("Not Divisible\n",num);
+    return 0;
 }
