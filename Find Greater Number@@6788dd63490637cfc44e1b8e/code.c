@@ -3,5 +3,6 @@ int main(){
     int num;
     printf("Enter a number: ");
     scanf("%d",&num);
-    if ()
+    if (a > b);
+    return 0;
 }
