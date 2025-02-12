@@ -6,7 +6,7 @@ int main(){
     if (a>0)
        printf("Positive\n",a);
     else if (a<0)
-       printf("Negative\n");
+       printf("Negative\n",a);
     else 
        printf("Zero\n");
       
