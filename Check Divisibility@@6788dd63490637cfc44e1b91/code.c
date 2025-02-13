@@ -2,11 +2,11 @@
 int main(){
     int num;
     scanf("%d",&num);
-    if (num % 5,11)
+    if (num % 5 == 0 && num % 11 == 0){
     printf("Divisible\n",num);
-    else 
-    (num !% 5,11)
+    }else {
     printf("Not Divisible\n",num);
+    }
     return 0;
 }
 
