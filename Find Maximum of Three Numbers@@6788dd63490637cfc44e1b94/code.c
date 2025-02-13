@@ -4,7 +4,8 @@ int main(){
     scanf("%d %d %d",&a,&b,&c);
     if (a > b && b > c && c > a)
     {
-        printf("Output the maximum number: ");
+        printf("Enter a maximum number: ");
     }
    return 0; 
 }
+
