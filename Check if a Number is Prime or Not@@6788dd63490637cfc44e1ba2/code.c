@@ -10,7 +10,7 @@ int main(){
     // }
     // else  
     n = num/2;
-    if(num>=2){
+    if(num>=1){
         if(num%n==0){
             printf("Not Prime");
 
