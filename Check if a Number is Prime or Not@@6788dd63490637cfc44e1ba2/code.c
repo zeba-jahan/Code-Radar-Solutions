@@ -8,6 +8,9 @@ int main(){
     else if (num%2==0 || num%3==0  || num%5==0 ){
         printf("Prime");
     }
+    else if (num !%4==0 || num!%9==0){
+        printf("Not Prime");
+    }
     return 0;
 
 }
