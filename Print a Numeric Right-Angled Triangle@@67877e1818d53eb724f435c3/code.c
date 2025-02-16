@@ -7,7 +7,7 @@ int main(){
 
         }
         printf("1\n");
-        printf("1 2\n");
     }
+    printf("1 2\n");
     printf("\n");
 }
