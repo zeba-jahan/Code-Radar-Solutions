@@ -9,14 +9,14 @@ int main(){
     //     printf("Prime");
     // }
     // else  
+    n = num/2;
     if(num>=2){
-        for(n=1;n<=num/2;n++){
-            if(num%n==0){
-                printf("Not Prime");
-            }
-            else{
-                printf("Prime");
-            }
+        if(num%n==0){
+            printf("Not Prime");
+
+        }
+        else{
+            printf("Prime");
         }
     }
 
