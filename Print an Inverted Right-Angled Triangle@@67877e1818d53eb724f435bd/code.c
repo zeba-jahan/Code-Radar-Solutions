@@ -1,7 +1,11 @@
 #include<stdio.h>
 int main(){
-    int a;
-    scanf("%d",&a);
-    for (int i=1; i<=7; i++);
-    printf("%d",i);
+    int n;
+    scanf("%d",&n);
+    for (int i=n; i > 0; i--){
+        for (int j=0; j<i; j++){
+    printf("*");
+    }
+    printf("/n");}
+    return 0;
 }
