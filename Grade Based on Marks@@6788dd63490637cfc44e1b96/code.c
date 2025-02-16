@@ -7,16 +7,16 @@ int main(){
         printf("A\n");
     }
     else if(marks>=80 and marks<90){
-        printf('B');
+        printf("B\n");
     }
     else if(marks>=70 and marks<80){
-        printf('C');
+        printf("C\n");
     }
     else if(marks>=60 and marks<70){
-        printf('D');
+        printf("D\n");
     }
     else{
-        printf('F');
+        printf("F\n");
     }
     return 0;
 }
