@@ -5,13 +5,13 @@ int main(){
     if (marks>=90){
       printf("A\n");
     }
-    else if (marks>80){
+    else if (marks>=80 and marks<90){
       printf("B\n");
     }
-    else if (marks>70){
+    else if (marks>=70 and marks<80){
       printf("C\n");
     }
-    else if (marks>60){
+    else if (marks>=60 and marks<70){
       printf("D\n");
     }
     else{
